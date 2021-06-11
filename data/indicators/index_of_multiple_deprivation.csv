@@ -1,0 +1,635 @@
+area_code,area_name,indicator,group,measure,value
+E06000001,Hartlepool,Index of Multiple Deprivation 2019,Rank of average score,Rank,10
+E06000001,Hartlepool,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.3621
+E06000002,Middlesbrough,Index of Multiple Deprivation 2019,Rank of average score,Rank,5
+E06000002,Middlesbrough,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.4884
+E06000003,Redcar and Cleveland,Index of Multiple Deprivation 2019,Rank of average score,Rank,40
+E06000003,Redcar and Cleveland,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2386
+E06000004,Stockton-on-Tees,Index of Multiple Deprivation 2019,Rank of average score,Rank,73
+E06000004,Stockton-on-Tees,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2083
+E06000005,Darlington,Index of Multiple Deprivation 2019,Rank of average score,Rank,77
+E06000005,Darlington,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1846
+E06000006,Halton,Index of Multiple Deprivation 2019,Rank of average score,Rank,23
+E06000006,Halton,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.3165
+E06000007,Warrington,Index of Multiple Deprivation 2019,Rank of average score,Rank,148
+E06000007,Warrington,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0787
+E06000008,Blackburn with Darwen,Index of Multiple Deprivation 2019,Rank of average score,Rank,9
+E06000008,Blackburn with Darwen,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.3626
+E06000009,Blackpool,Index of Multiple Deprivation 2019,Rank of average score,Rank,1
+E06000009,Blackpool,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.4149
+E06000010,"Kingston upon Hull, City of",Index of Multiple Deprivation 2019,Rank of average score,Rank,4
+E06000010,"Kingston upon Hull, City of",Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.4518
+E06000011,East Riding of Yorkshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,202
+E06000011,East Riding of Yorkshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0619
+E06000012,North East Lincolnshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,29
+E06000012,North East Lincolnshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.3019
+E06000013,North Lincolnshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,115
+E06000013,North Lincolnshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1089
+E06000014,York,Index of Multiple Deprivation 2019,Rank of average score,Rank,267
+E06000014,York,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0083
+E06000015,Derby,Index of Multiple Deprivation 2019,Rank of average score,Rank,67
+E06000015,Derby,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1589
+E06000016,Leicester,Index of Multiple Deprivation 2019,Rank of average score,Rank,32
+E06000016,Leicester,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2031
+E06000017,Rutland,Index of Multiple Deprivation 2019,Rank of average score,Rank,303
+E06000017,Rutland,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E06000018,Nottingham,Index of Multiple Deprivation 2019,Rank of average score,Rank,11
+E06000018,Nottingham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.3077
+E06000019,"Herefordshire, County of",Index of Multiple Deprivation 2019,Rank of average score,Rank,152
+E06000019,"Herefordshire, County of",Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0086
+E06000020,Telford and Wrekin,Index of Multiple Deprivation 2019,Rank of average score,Rank,86
+E06000020,Telford and Wrekin,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1667
+E06000021,Stoke-on-Trent,Index of Multiple Deprivation 2019,Rank of average score,Rank,14
+E06000021,Stoke-on-Trent,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.3208
+E06000022,Bath and North East Somerset,Index of Multiple Deprivation 2019,Rank of average score,Rank,265
+E06000022,Bath and North East Somerset,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0174
+E06000023,"Bristol, City of",Index of Multiple Deprivation 2019,Rank of average score,Rank,65
+E06000023,"Bristol, City of",Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1559
+E06000024,North Somerset,Index of Multiple Deprivation 2019,Rank of average score,Rank,196
+E06000024,North Somerset,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0593
+E06000025,South Gloucestershire,Index of Multiple Deprivation 2019,Rank of average score,Rank,269
+E06000025,South Gloucestershire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E06000026,Plymouth,Index of Multiple Deprivation 2019,Rank of average score,Rank,64
+E06000026,Plymouth,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1739
+E06000027,Torbay,Index of Multiple Deprivation 2019,Rank of average score,Rank,48
+E06000027,Torbay,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1573
+E06000030,Swindon,Index of Multiple Deprivation 2019,Rank of average score,Rank,157
+E06000030,Swindon,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0909
+E06000031,Peterborough,Index of Multiple Deprivation 2019,Rank of average score,Rank,51
+E06000031,Peterborough,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1429
+E06000032,Luton,Index of Multiple Deprivation 2019,Rank of average score,Rank,70
+E06000032,Luton,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0331
+E06000033,Southend-on-Sea,Index of Multiple Deprivation 2019,Rank of average score,Rank,110
+E06000033,Southend-on-Sea,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0841
+E06000034,Thurrock,Index of Multiple Deprivation 2019,Rank of average score,Rank,128
+E06000034,Thurrock,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0408
+E06000035,Medway,Index of Multiple Deprivation 2019,Rank of average score,Rank,93
+E06000035,Medway,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0859
+E06000036,Bracknell Forest,Index of Multiple Deprivation 2019,Rank of average score,Rank,286
+E06000036,Bracknell Forest,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E06000037,West Berkshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,289
+E06000037,West Berkshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E06000038,Reading,Index of Multiple Deprivation 2019,Rank of average score,Rank,141
+E06000038,Reading,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0515
+E06000039,Slough,Index of Multiple Deprivation 2019,Rank of average score,Rank,103
+E06000039,Slough,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E06000040,Windsor and Maidenhead,Index of Multiple Deprivation 2019,Rank of average score,Rank,304
+E06000040,Windsor and Maidenhead,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E06000041,Wokingham,Index of Multiple Deprivation 2019,Rank of average score,Rank,316
+E06000041,Wokingham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E06000042,Milton Keynes,Index of Multiple Deprivation 2019,Rank of average score,Rank,165
+E06000042,Milton Keynes,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0526
+E06000043,Brighton and Hove,Index of Multiple Deprivation 2019,Rank of average score,Rank,131
+E06000043,Brighton and Hove,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0909
+E06000044,Portsmouth,Index of Multiple Deprivation 2019,Rank of average score,Rank,59
+E06000044,Portsmouth,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.12
+E06000045,Southampton,Index of Multiple Deprivation 2019,Rank of average score,Rank,61
+E06000045,Southampton,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1284
+E06000046,Isle of Wight,Index of Multiple Deprivation 2019,Rank of average score,Rank,98
+E06000046,Isle of Wight,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0337
+E06000047,County Durham,Index of Multiple Deprivation 2019,Rank of average score,Rank,62
+E06000047,County Durham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1204
+E06000049,Cheshire East,Index of Multiple Deprivation 2019,Rank of average score,Rank,216
+E06000049,Cheshire East,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0171
+E06000050,Cheshire West and Chester,Index of Multiple Deprivation 2019,Rank of average score,Rank,161
+E06000050,Cheshire West and Chester,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0755
+E06000051,Shropshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,174
+E06000051,Shropshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0104
+E06000052,Cornwall,Index of Multiple Deprivation 2019,Rank of average score,Rank,101
+E06000052,Cornwall,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0521
+E06000053,Isles of Scilly,Index of Multiple Deprivation 2019,Rank of average score,Rank,258
+E06000053,Isles of Scilly,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E06000054,Wiltshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,233
+E06000054,Wiltshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0035
+E06000055,Bedford,Index of Multiple Deprivation 2019,Rank of average score,Rank,150
+E06000055,Bedford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0388
+E06000056,Central Bedfordshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,254
+E06000056,Central Bedfordshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E06000057,Northumberland,Index of Multiple Deprivation 2019,Rank of average score,Rank,116
+E06000057,Northumberland,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1168
+E06000058,"Bournemouth, Christchurch and Poole",Index of Multiple Deprivation 2019,Rank of average score,Rank,160
+E06000058,"Bournemouth, Christchurch and Poole",Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0386
+E06000059,Dorset,Index of Multiple Deprivation 2019,Rank of average score,Rank,199
+E06000059,Dorset,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0274
+E07000004,Aylesbury Vale,Index of Multiple Deprivation 2019,Rank of average score,Rank,276
+E07000004,Aylesbury Vale,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000005,Chiltern,Index of Multiple Deprivation 2019,Rank of average score,Rank,315
+E07000005,Chiltern,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000006,South Bucks,Index of Multiple Deprivation 2019,Rank of average score,Rank,294
+E07000006,South Bucks,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000007,Wycombe,Index of Multiple Deprivation 2019,Rank of average score,Rank,281
+E07000007,Wycombe,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000008,Cambridge,Index of Multiple Deprivation 2019,Rank of average score,Rank,210
+E07000008,Cambridge,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000009,East Cambridgeshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,272
+E07000009,East Cambridgeshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000010,Fenland,Index of Multiple Deprivation 2019,Rank of average score,Rank,80
+E07000010,Fenland,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0727
+E07000011,Huntingdonshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,248
+E07000011,Huntingdonshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000012,South Cambridgeshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,301
+E07000012,South Cambridgeshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000026,Allerdale,Index of Multiple Deprivation 2019,Rank of average score,Rank,104
+E07000026,Allerdale,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1167
+E07000027,Barrow-in-Furness,Index of Multiple Deprivation 2019,Rank of average score,Rank,31
+E07000027,Barrow-in-Furness,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2449
+E07000028,Carlisle,Index of Multiple Deprivation 2019,Rank of average score,Rank,117
+E07000028,Carlisle,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0588
+E07000029,Copeland,Index of Multiple Deprivation 2019,Rank of average score,Rank,85
+E07000029,Copeland,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0612
+E07000030,Eden,Index of Multiple Deprivation 2019,Rank of average score,Rank,186
+E07000030,Eden,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000031,South Lakeland,Index of Multiple Deprivation 2019,Rank of average score,Rank,250
+E07000031,South Lakeland,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000032,Amber Valley,Index of Multiple Deprivation 2019,Rank of average score,Rank,166
+E07000032,Amber Valley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0385
+E07000033,Bolsover,Index of Multiple Deprivation 2019,Rank of average score,Rank,84
+E07000033,Bolsover,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0417
+E07000034,Chesterfield,Index of Multiple Deprivation 2019,Rank of average score,Rank,87
+E07000034,Chesterfield,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.087
+E07000035,Derbyshire Dales,Index of Multiple Deprivation 2019,Rank of average score,Rank,263
+E07000035,Derbyshire Dales,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0233
+E07000036,Erewash,Index of Multiple Deprivation 2019,Rank of average score,Rank,153
+E07000036,Erewash,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0548
+E07000037,High Peak,Index of Multiple Deprivation 2019,Rank of average score,Rank,201
+E07000037,High Peak,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0508
+E07000038,North East Derbyshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,170
+E07000038,North East Derbyshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0476
+E07000039,South Derbyshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,215
+E07000039,South Derbyshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000040,East Devon,Index of Multiple Deprivation 2019,Rank of average score,Rank,244
+E07000040,East Devon,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000041,Exeter,Index of Multiple Deprivation 2019,Rank of average score,Rank,189
+E07000041,Exeter,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000042,Mid Devon,Index of Multiple Deprivation 2019,Rank of average score,Rank,176
+E07000042,Mid Devon,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000043,North Devon,Index of Multiple Deprivation 2019,Rank of average score,Rank,132
+E07000043,North Devon,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0517
+E07000044,South Hams,Index of Multiple Deprivation 2019,Rank of average score,Rank,229
+E07000044,South Hams,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000045,Teignbridge,Index of Multiple Deprivation 2019,Rank of average score,Rank,194
+E07000045,Teignbridge,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000046,Torridge,Index of Multiple Deprivation 2019,Rank of average score,Rank,99
+E07000046,Torridge,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000047,West Devon,Index of Multiple Deprivation 2019,Rank of average score,Rank,162
+E07000047,West Devon,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000061,Eastbourne,Index of Multiple Deprivation 2019,Rank of average score,Rank,114
+E07000061,Eastbourne,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0656
+E07000062,Hastings,Index of Multiple Deprivation 2019,Rank of average score,Rank,17
+E07000062,Hastings,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.3019
+E07000063,Lewes,Index of Multiple Deprivation 2019,Rank of average score,Rank,198
+E07000063,Lewes,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000064,Rother,Index of Multiple Deprivation 2019,Rank of average score,Rank,139
+E07000064,Rother,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0345
+E07000065,Wealden,Index of Multiple Deprivation 2019,Rank of average score,Rank,252
+E07000065,Wealden,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000066,Basildon,Index of Multiple Deprivation 2019,Rank of average score,Rank,100
+E07000066,Basildon,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1091
+E07000067,Braintree,Index of Multiple Deprivation 2019,Rank of average score,Rank,211
+E07000067,Braintree,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000068,Brentwood,Index of Multiple Deprivation 2019,Rank of average score,Rank,288
+E07000068,Brentwood,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000069,Castle Point,Index of Multiple Deprivation 2019,Rank of average score,Rank,178
+E07000069,Castle Point,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0175
+E07000070,Chelmsford,Index of Multiple Deprivation 2019,Rank of average score,Rank,253
+E07000070,Chelmsford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000071,Colchester,Index of Multiple Deprivation 2019,Rank of average score,Rank,181
+E07000071,Colchester,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0095
+E07000072,Epping Forest,Index of Multiple Deprivation 2019,Rank of average score,Rank,205
+E07000072,Epping Forest,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000073,Harlow,Index of Multiple Deprivation 2019,Rank of average score,Rank,124
+E07000073,Harlow,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000074,Maldon,Index of Multiple Deprivation 2019,Rank of average score,Rank,222
+E07000074,Maldon,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000075,Rochford,Index of Multiple Deprivation 2019,Rank of average score,Rank,284
+E07000075,Rochford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000076,Tendring,Index of Multiple Deprivation 2019,Rank of average score,Rank,36
+E07000076,Tendring,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1798
+E07000077,Uttlesford,Index of Multiple Deprivation 2019,Rank of average score,Rank,297
+E07000077,Uttlesford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000078,Cheltenham,Index of Multiple Deprivation 2019,Rank of average score,Rank,219
+E07000078,Cheltenham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0267
+E07000079,Cotswold,Index of Multiple Deprivation 2019,Rank of average score,Rank,277
+E07000079,Cotswold,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000080,Forest of Dean,Index of Multiple Deprivation 2019,Rank of average score,Rank,163
+E07000080,Forest of Dean,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.02
+E07000081,Gloucester,Index of Multiple Deprivation 2019,Rank of average score,Rank,118
+E07000081,Gloucester,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1154
+E07000082,Stroud,Index of Multiple Deprivation 2019,Rank of average score,Rank,280
+E07000082,Stroud,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000083,Tewkesbury,Index of Multiple Deprivation 2019,Rank of average score,Rank,255
+E07000083,Tewkesbury,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000084,Basingstoke and Deane,Index of Multiple Deprivation 2019,Rank of average score,Rank,243
+E07000084,Basingstoke and Deane,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000085,East Hampshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,285
+E07000085,East Hampshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000086,Eastleigh,Index of Multiple Deprivation 2019,Rank of average score,Rank,287
+E07000086,Eastleigh,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000087,Fareham,Index of Multiple Deprivation 2019,Rank of average score,Rank,298
+E07000087,Fareham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000088,Gosport,Index of Multiple Deprivation 2019,Rank of average score,Rank,133
+E07000088,Gosport,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0189
+E07000089,Hart,Index of Multiple Deprivation 2019,Rank of average score,Rank,317
+E07000089,Hart,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000090,Havant,Index of Multiple Deprivation 2019,Rank of average score,Rank,119
+E07000090,Havant,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0769
+E07000091,New Forest,Index of Multiple Deprivation 2019,Rank of average score,Rank,240
+E07000091,New Forest,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000092,Rushmoor,Index of Multiple Deprivation 2019,Rank of average score,Rank,193
+E07000092,Rushmoor,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000093,Test Valley,Index of Multiple Deprivation 2019,Rank of average score,Rank,261
+E07000093,Test Valley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000094,Winchester,Index of Multiple Deprivation 2019,Rank of average score,Rank,292
+E07000094,Winchester,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000095,Broxbourne,Index of Multiple Deprivation 2019,Rank of average score,Rank,164
+E07000095,Broxbourne,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000096,Dacorum,Index of Multiple Deprivation 2019,Rank of average score,Rank,241
+E07000096,Dacorum,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000098,Hertsmere,Index of Multiple Deprivation 2019,Rank of average score,Rank,227
+E07000098,Hertsmere,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0161
+E07000099,North Hertfordshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,270
+E07000099,North Hertfordshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000102,Three Rivers,Index of Multiple Deprivation 2019,Rank of average score,Rank,291
+E07000102,Three Rivers,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000103,Watford,Index of Multiple Deprivation 2019,Rank of average score,Rank,203
+E07000103,Watford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000105,Ashford,Index of Multiple Deprivation 2019,Rank of average score,Rank,158
+E07000105,Ashford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0128
+E07000106,Canterbury,Index of Multiple Deprivation 2019,Rank of average score,Rank,179
+E07000106,Canterbury,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0222
+E07000107,Dartford,Index of Multiple Deprivation 2019,Rank of average score,Rank,154
+E07000107,Dartford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0172
+E07000108,Dover,Index of Multiple Deprivation 2019,Rank of average score,Rank,113
+E07000108,Dover,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0746
+E07000109,Gravesham,Index of Multiple Deprivation 2019,Rank of average score,Rank,123
+E07000109,Gravesham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0313
+E07000110,Maidstone,Index of Multiple Deprivation 2019,Rank of average score,Rank,185
+E07000110,Maidstone,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0211
+E07000111,Sevenoaks,Index of Multiple Deprivation 2019,Rank of average score,Rank,251
+E07000111,Sevenoaks,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000112,Folkestone and Hythe,Index of Multiple Deprivation 2019,Rank of average score,Rank,90
+E07000112,Folkestone and Hythe,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0597
+E07000113,Swale,Index of Multiple Deprivation 2019,Rank of average score,Rank,56
+E07000113,Swale,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1882
+E07000114,Thanet,Index of Multiple Deprivation 2019,Rank of average score,Rank,30
+E07000114,Thanet,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2143
+E07000115,Tonbridge and Malling,Index of Multiple Deprivation 2019,Rank of average score,Rank,234
+E07000115,Tonbridge and Malling,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000116,Tunbridge Wells,Index of Multiple Deprivation 2019,Rank of average score,Rank,274
+E07000116,Tunbridge Wells,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000117,Burnley,Index of Multiple Deprivation 2019,Rank of average score,Rank,8
+E07000117,Burnley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.3833
+E07000118,Chorley,Index of Multiple Deprivation 2019,Rank of average score,Rank,177
+E07000118,Chorley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0455
+E07000119,Fylde,Index of Multiple Deprivation 2019,Rank of average score,Rank,195
+E07000119,Fylde,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0392
+E07000120,Hyndburn,Index of Multiple Deprivation 2019,Rank of average score,Rank,16
+E07000120,Hyndburn,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2692
+E07000121,Lancaster,Index of Multiple Deprivation 2019,Rank of average score,Rank,89
+E07000121,Lancaster,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1461
+E07000122,Pendle,Index of Multiple Deprivation 2019,Rank of average score,Rank,33
+E07000122,Pendle,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.3158
+E07000123,Preston,Index of Multiple Deprivation 2019,Rank of average score,Rank,45
+E07000123,Preston,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.186
+E07000124,Ribble Valley,Index of Multiple Deprivation 2019,Rank of average score,Rank,283
+E07000124,Ribble Valley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000125,Rossendale,Index of Multiple Deprivation 2019,Rank of average score,Rank,92
+E07000125,Rossendale,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1395
+E07000126,South Ribble,Index of Multiple Deprivation 2019,Rank of average score,Rank,204
+E07000126,South Ribble,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0429
+E07000127,West Lancashire,Index of Multiple Deprivation 2019,Rank of average score,Rank,155
+E07000127,West Lancashire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0822
+E07000128,Wyre,Index of Multiple Deprivation 2019,Rank of average score,Rank,129
+E07000128,Wyre,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1449
+E07000129,Blaby,Index of Multiple Deprivation 2019,Rank of average score,Rank,282
+E07000129,Blaby,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000130,Charnwood,Index of Multiple Deprivation 2019,Rank of average score,Rank,236
+E07000130,Charnwood,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0202
+E07000131,Harborough,Index of Multiple Deprivation 2019,Rank of average score,Rank,309
+E07000131,Harborough,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000132,Hinckley and Bosworth,Index of Multiple Deprivation 2019,Rank of average score,Rank,232
+E07000132,Hinckley and Bosworth,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000133,Melton,Index of Multiple Deprivation 2019,Rank of average score,Rank,249
+E07000133,Melton,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000134,North West Leicestershire,Index of Multiple Deprivation 2019,Rank of average score,Rank,214
+E07000134,North West Leicestershire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0345
+E07000135,Oadby and Wigston,Index of Multiple Deprivation 2019,Rank of average score,Rank,242
+E07000135,Oadby and Wigston,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000136,Boston,Index of Multiple Deprivation 2019,Rank of average score,Rank,102
+E07000136,Boston,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0278
+E07000137,East Lindsey,Index of Multiple Deprivation 2019,Rank of average score,Rank,39
+E07000137,East Lindsey,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1605
+E07000138,Lincoln,Index of Multiple Deprivation 2019,Rank of average score,Rank,60
+E07000138,Lincoln,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1754
+E07000139,North Kesteven,Index of Multiple Deprivation 2019,Rank of average score,Rank,271
+E07000139,North Kesteven,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000140,South Holland,Index of Multiple Deprivation 2019,Rank of average score,Rank,168
+E07000140,South Holland,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000141,South Kesteven,Index of Multiple Deprivation 2019,Rank of average score,Rank,231
+E07000141,South Kesteven,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0123
+E07000142,West Lindsey,Index of Multiple Deprivation 2019,Rank of average score,Rank,136
+E07000142,West Lindsey,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0769
+E07000143,Breckland,Index of Multiple Deprivation 2019,Rank of average score,Rank,142
+E07000143,Breckland,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0128
+E07000144,Broadland,Index of Multiple Deprivation 2019,Rank of average score,Rank,264
+E07000144,Broadland,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000145,Great Yarmouth,Index of Multiple Deprivation 2019,Rank of average score,Rank,20
+E07000145,Great Yarmouth,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2459
+E07000146,King's Lynn and West Norfolk,Index of Multiple Deprivation 2019,Rank of average score,Rank,94
+E07000146,King's Lynn and West Norfolk,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0787
+E07000147,North Norfolk,Index of Multiple Deprivation 2019,Rank of average score,Rank,127
+E07000147,North Norfolk,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000148,Norwich,Index of Multiple Deprivation 2019,Rank of average score,Rank,52
+E07000148,Norwich,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2048
+E07000149,South Norfolk,Index of Multiple Deprivation 2019,Rank of average score,Rank,235
+E07000149,South Norfolk,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000150,Corby,Index of Multiple Deprivation 2019,Rank of average score,Rank,76
+E07000150,Corby,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0976
+E07000151,Daventry,Index of Multiple Deprivation 2019,Rank of average score,Rank,238
+E07000151,Daventry,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0227
+E07000152,East Northamptonshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,228
+E07000152,East Northamptonshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000153,Kettering,Index of Multiple Deprivation 2019,Rank of average score,Rank,144
+E07000153,Kettering,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0702
+E07000154,Northampton,Index of Multiple Deprivation 2019,Rank of average score,Rank,97
+E07000154,Northampton,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0902
+E07000155,South Northamptonshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,312
+E07000155,South Northamptonshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000156,Wellingborough,Index of Multiple Deprivation 2019,Rank of average score,Rank,120
+E07000156,Wellingborough,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0638
+E07000163,Craven,Index of Multiple Deprivation 2019,Rank of average score,Rank,245
+E07000163,Craven,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000164,Hambleton,Index of Multiple Deprivation 2019,Rank of average score,Rank,260
+E07000164,Hambleton,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000165,Harrogate,Index of Multiple Deprivation 2019,Rank of average score,Rank,278
+E07000165,Harrogate,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0096
+E07000166,Richmondshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,256
+E07000166,Richmondshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000167,Ryedale,Index of Multiple Deprivation 2019,Rank of average score,Rank,200
+E07000167,Ryedale,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000168,Scarborough,Index of Multiple Deprivation 2019,Rank of average score,Rank,69
+E07000168,Scarborough,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1268
+E07000169,Selby,Index of Multiple Deprivation 2019,Rank of average score,Rank,246
+E07000169,Selby,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.02
+E07000170,Ashfield,Index of Multiple Deprivation 2019,Rank of average score,Rank,68
+E07000170,Ashfield,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1622
+E07000171,Bassetlaw,Index of Multiple Deprivation 2019,Rank of average score,Rank,106
+E07000171,Bassetlaw,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0714
+E07000172,Broxtowe,Index of Multiple Deprivation 2019,Rank of average score,Rank,220
+E07000172,Broxtowe,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000173,Gedling,Index of Multiple Deprivation 2019,Rank of average score,Rank,209
+E07000173,Gedling,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.013
+E07000174,Mansfield,Index of Multiple Deprivation 2019,Rank of average score,Rank,46
+E07000174,Mansfield,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1493
+E07000175,Newark and Sherwood,Index of Multiple Deprivation 2019,Rank of average score,Rank,145
+E07000175,Newark and Sherwood,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0429
+E07000176,Rushcliffe,Index of Multiple Deprivation 2019,Rank of average score,Rank,314
+E07000176,Rushcliffe,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000177,Cherwell,Index of Multiple Deprivation 2019,Rank of average score,Rank,217
+E07000177,Cherwell,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000178,Oxford,Index of Multiple Deprivation 2019,Rank of average score,Rank,182
+E07000178,Oxford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.012
+E07000179,South Oxfordshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,302
+E07000179,South Oxfordshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000180,Vale of White Horse,Index of Multiple Deprivation 2019,Rank of average score,Rank,305
+E07000180,Vale of White Horse,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000181,West Oxfordshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,300
+E07000181,West Oxfordshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000187,Mendip,Index of Multiple Deprivation 2019,Rank of average score,Rank,184
+E07000187,Mendip,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0152
+E07000188,Sedgemoor,Index of Multiple Deprivation 2019,Rank of average score,Rank,125
+E07000188,Sedgemoor,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0571
+E07000189,South Somerset,Index of Multiple Deprivation 2019,Rank of average score,Rank,172
+E07000189,South Somerset,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0097
+E07000192,Cannock Chase,Index of Multiple Deprivation 2019,Rank of average score,Rank,134
+E07000192,Cannock Chase,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0333
+E07000193,East Staffordshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,147
+E07000193,East Staffordshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0417
+E07000194,Lichfield,Index of Multiple Deprivation 2019,Rank of average score,Rank,247
+E07000194,Lichfield,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000195,Newcastle-under-Lyme,Index of Multiple Deprivation 2019,Rank of average score,Rank,151
+E07000195,Newcastle-under-Lyme,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.025
+E07000196,South Staffordshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,239
+E07000196,South Staffordshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000197,Stafford,Index of Multiple Deprivation 2019,Rank of average score,Rank,230
+E07000197,Stafford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000198,Staffordshire Moorlands,Index of Multiple Deprivation 2019,Rank of average score,Rank,206
+E07000198,Staffordshire Moorlands,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000199,Tamworth,Index of Multiple Deprivation 2019,Rank of average score,Rank,126
+E07000199,Tamworth,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0784
+E07000200,Babergh,Index of Multiple Deprivation 2019,Rank of average score,Rank,218
+E07000200,Babergh,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000202,Ipswich,Index of Multiple Deprivation 2019,Rank of average score,Rank,71
+E07000202,Ipswich,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1412
+E07000203,Mid Suffolk,Index of Multiple Deprivation 2019,Rank of average score,Rank,237
+E07000203,Mid Suffolk,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000207,Elmbridge,Index of Multiple Deprivation 2019,Rank of average score,Rank,310
+E07000207,Elmbridge,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000208,Epsom and Ewell,Index of Multiple Deprivation 2019,Rank of average score,Rank,299
+E07000208,Epsom and Ewell,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000209,Guildford,Index of Multiple Deprivation 2019,Rank of average score,Rank,296
+E07000209,Guildford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000210,Mole Valley,Index of Multiple Deprivation 2019,Rank of average score,Rank,293
+E07000210,Mole Valley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000211,Reigate and Banstead,Index of Multiple Deprivation 2019,Rank of average score,Rank,275
+E07000211,Reigate and Banstead,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000212,Runnymede,Index of Multiple Deprivation 2019,Rank of average score,Rank,257
+E07000212,Runnymede,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000213,Spelthorne,Index of Multiple Deprivation 2019,Rank of average score,Rank,208
+E07000213,Spelthorne,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000214,Surrey Heath,Index of Multiple Deprivation 2019,Rank of average score,Rank,308
+E07000214,Surrey Heath,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000215,Tandridge,Index of Multiple Deprivation 2019,Rank of average score,Rank,262
+E07000215,Tandridge,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000216,Waverley,Index of Multiple Deprivation 2019,Rank of average score,Rank,313
+E07000216,Waverley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000217,Woking,Index of Multiple Deprivation 2019,Rank of average score,Rank,279
+E07000217,Woking,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000218,North Warwickshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,167
+E07000218,North Warwickshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0263
+E07000219,Nuneaton and Bedworth,Index of Multiple Deprivation 2019,Rank of average score,Rank,96
+E07000219,Nuneaton and Bedworth,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0617
+E07000220,Rugby,Index of Multiple Deprivation 2019,Rank of average score,Rank,224
+E07000220,Rugby,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000221,Stratford-on-Avon,Index of Multiple Deprivation 2019,Rank of average score,Rank,266
+E07000221,Stratford-on-Avon,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000222,Warwick,Index of Multiple Deprivation 2019,Rank of average score,Rank,259
+E07000222,Warwick,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000223,Adur,Index of Multiple Deprivation 2019,Rank of average score,Rank,169
+E07000223,Adur,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000224,Arun,Index of Multiple Deprivation 2019,Rank of average score,Rank,156
+E07000224,Arun,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0426
+E07000225,Chichester,Index of Multiple Deprivation 2019,Rank of average score,Rank,225
+E07000225,Chichester,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000226,Crawley,Index of Multiple Deprivation 2019,Rank of average score,Rank,149
+E07000226,Crawley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0152
+E07000227,Horsham,Index of Multiple Deprivation 2019,Rank of average score,Rank,290
+E07000227,Horsham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000228,Mid Sussex,Index of Multiple Deprivation 2019,Rank of average score,Rank,311
+E07000228,Mid Sussex,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000229,Worthing,Index of Multiple Deprivation 2019,Rank of average score,Rank,175
+E07000229,Worthing,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000234,Bromsgrove,Index of Multiple Deprivation 2019,Rank of average score,Rank,268
+E07000234,Bromsgrove,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000235,Malvern Hills,Index of Multiple Deprivation 2019,Rank of average score,Rank,192
+E07000235,Malvern Hills,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0222
+E07000236,Redditch,Index of Multiple Deprivation 2019,Rank of average score,Rank,107
+E07000236,Redditch,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0909
+E07000237,Worcester,Index of Multiple Deprivation 2019,Rank of average score,Rank,135
+E07000237,Worcester,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.127
+E07000238,Wychavon,Index of Multiple Deprivation 2019,Rank of average score,Rank,197
+E07000238,Wychavon,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000239,Wyre Forest,Index of Multiple Deprivation 2019,Rank of average score,Rank,109
+E07000239,Wyre Forest,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0615
+E07000240,St Albans,Index of Multiple Deprivation 2019,Rank of average score,Rank,306
+E07000240,St Albans,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000241,Welwyn Hatfield,Index of Multiple Deprivation 2019,Rank of average score,Rank,221
+E07000241,Welwyn Hatfield,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000242,East Hertfordshire,Index of Multiple Deprivation 2019,Rank of average score,Rank,307
+E07000242,East Hertfordshire,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000243,Stevenage,Index of Multiple Deprivation 2019,Rank of average score,Rank,140
+E07000243,Stevenage,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000244,East Suffolk,Index of Multiple Deprivation 2019,Rank of average score,Rank,143
+E07000244,East Suffolk,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0685
+E07000245,West Suffolk,Index of Multiple Deprivation 2019,Rank of average score,Rank,188
+E07000245,West Suffolk,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E07000246,Somerset West and Taunton,Index of Multiple Deprivation 2019,Rank of average score,Rank,146
+E07000246,Somerset West and Taunton,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0341
+E08000001,Bolton,Index of Multiple Deprivation 2019,Rank of average score,Rank,34
+E08000001,Bolton,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2373
+E08000002,Bury,Index of Multiple Deprivation 2019,Rank of average score,Rank,95
+E08000002,Bury,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1
+E08000003,Manchester,Index of Multiple Deprivation 2019,Rank of average score,Rank,6
+E08000003,Manchester,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.4326
+E08000004,Oldham,Index of Multiple Deprivation 2019,Rank of average score,Rank,19
+E08000004,Oldham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.305
+E08000005,Rochdale,Index of Multiple Deprivation 2019,Rank of average score,Rank,15
+E08000005,Rochdale,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2985
+E08000006,Salford,Index of Multiple Deprivation 2019,Rank of average score,Rank,18
+E08000006,Salford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.3
+E08000007,Stockport,Index of Multiple Deprivation 2019,Rank of average score,Rank,130
+E08000007,Stockport,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0895
+E08000008,Tameside,Index of Multiple Deprivation 2019,Rank of average score,Rank,28
+E08000008,Tameside,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2057
+E08000009,Trafford,Index of Multiple Deprivation 2019,Rank of average score,Rank,191
+E08000009,Trafford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0507
+E08000010,Wigan,Index of Multiple Deprivation 2019,Rank of average score,Rank,75
+E08000010,Wigan,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.165
+E08000011,Knowsley,Index of Multiple Deprivation 2019,Rank of average score,Rank,2
+E08000011,Knowsley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.4694
+E08000012,Liverpool,Index of Multiple Deprivation 2019,Rank of average score,Rank,3
+E08000012,Liverpool,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.4866
+E08000013,St. Helens,Index of Multiple Deprivation 2019,Rank of average score,Rank,26
+E08000013,St. Helens,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2437
+E08000014,Sefton,Index of Multiple Deprivation 2019,Rank of average score,Rank,58
+E08000014,Sefton,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2011
+E08000015,Wirral,Index of Multiple Deprivation 2019,Rank of average score,Rank,42
+E08000015,Wirral,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2524
+E08000016,Barnsley,Index of Multiple Deprivation 2019,Rank of average score,Rank,38
+E08000016,Barnsley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2177
+E08000017,Doncaster,Index of Multiple Deprivation 2019,Rank of average score,Rank,37
+E08000017,Doncaster,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2371
+E08000018,Rotherham,Index of Multiple Deprivation 2019,Rank of average score,Rank,44
+E08000018,Rotherham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.21560000000000001
+E08000019,Sheffield,Index of Multiple Deprivation 2019,Rank of average score,Rank,57
+E08000019,Sheffield,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2377
+E08000021,Newcastle upon Tyne,Index of Multiple Deprivation 2019,Rank of average score,Rank,41
+E08000021,Newcastle upon Tyne,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2571
+E08000022,North Tyneside,Index of Multiple Deprivation 2019,Rank of average score,Rank,111
+E08000022,North Tyneside,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0916
+E08000023,South Tyneside,Index of Multiple Deprivation 2019,Rank of average score,Rank,27
+E08000023,South Tyneside,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2451
+E08000024,Sunderland,Index of Multiple Deprivation 2019,Rank of average score,Rank,35
+E08000024,Sunderland,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.227
+E08000025,Birmingham,Index of Multiple Deprivation 2019,Rank of average score,Rank,7
+E08000025,Birmingham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.4131
+E08000026,Coventry,Index of Multiple Deprivation 2019,Rank of average score,Rank,78
+E08000026,Coventry,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1436
+E08000027,Dudley,Index of Multiple Deprivation 2019,Rank of average score,Rank,91
+E08000027,Dudley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1095
+E08000028,Sandwell,Index of Multiple Deprivation 2019,Rank of average score,Rank,12
+E08000028,Sandwell,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1989
+E08000029,Solihull,Index of Multiple Deprivation 2019,Rank of average score,Rank,171
+E08000029,Solihull,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1194
+E08000030,Walsall,Index of Multiple Deprivation 2019,Rank of average score,Rank,25
+E08000030,Walsall,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2635
+E08000031,Wolverhampton,Index of Multiple Deprivation 2019,Rank of average score,Rank,24
+E08000031,Wolverhampton,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2089
+E08000032,Bradford,Index of Multiple Deprivation 2019,Rank of average score,Rank,13
+E08000032,Bradford,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.3355
+E08000033,Calderdale,Index of Multiple Deprivation 2019,Rank of average score,Rank,66
+E08000033,Calderdale,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1563
+E08000034,Kirklees,Index of Multiple Deprivation 2019,Rank of average score,Rank,83
+E08000034,Kirklees,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1197
+E08000035,Leeds,Index of Multiple Deprivation 2019,Rank of average score,Rank,55
+E08000035,Leeds,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.2365
+E08000036,Wakefield,Index of Multiple Deprivation 2019,Rank of average score,Rank,54
+E08000036,Wakefield,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1579
+E08000037,Gateshead,Index of Multiple Deprivation 2019,Rank of average score,Rank,47
+E08000037,Gateshead,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1667
+E09000001,City of London,Index of Multiple Deprivation 2019,Rank of average score,Rank,212
+E09000001,City of London,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E09000002,Barking and Dagenham,Index of Multiple Deprivation 2019,Rank of average score,Rank,21
+E09000002,Barking and Dagenham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0364
+E09000003,Barnet,Index of Multiple Deprivation 2019,Rank of average score,Rank,190
+E09000003,Barnet,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0047
+E09000004,Bexley,Index of Multiple Deprivation 2019,Rank of average score,Rank,187
+E09000004,Bexley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E09000005,Brent,Index of Multiple Deprivation 2019,Rank of average score,Rank,79
+E09000005,Brent,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0578
+E09000006,Bromley,Index of Multiple Deprivation 2019,Rank of average score,Rank,223
+E09000006,Bromley,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0051
+E09000007,Camden,Index of Multiple Deprivation 2019,Rank of average score,Rank,138
+E09000007,Camden,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E09000008,Croydon,Index of Multiple Deprivation 2019,Rank of average score,Rank,108
+E09000008,Croydon,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0227
+E09000009,Ealing,Index of Multiple Deprivation 2019,Rank of average score,Rank,105
+E09000009,Ealing,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0204
+E09000010,Enfield,Index of Multiple Deprivation 2019,Rank of average score,Rank,74
+E09000010,Enfield,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0546
+E09000011,Greenwich,Index of Multiple Deprivation 2019,Rank of average score,Rank,88
+E09000011,Greenwich,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0066
+E09000012,Hackney,Index of Multiple Deprivation 2019,Rank of average score,Rank,22
+E09000012,Hackney,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.1111
+E09000013,Hammersmith and Fulham,Index of Multiple Deprivation 2019,Rank of average score,Rank,112
+E09000013,Hammersmith and Fulham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0088
+E09000014,Haringey,Index of Multiple Deprivation 2019,Rank of average score,Rank,49
+E09000014,Haringey,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0966
+E09000015,Harrow,Index of Multiple Deprivation 2019,Rank of average score,Rank,207
+E09000015,Harrow,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E09000016,Havering,Index of Multiple Deprivation 2019,Rank of average score,Rank,180
+E09000016,Havering,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0067
+E09000017,Hillingdon,Index of Multiple Deprivation 2019,Rank of average score,Rank,159
+E09000017,Hillingdon,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E09000018,Hounslow,Index of Multiple Deprivation 2019,Rank of average score,Rank,122
+E09000018,Hounslow,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.007
+E09000019,Islington,Index of Multiple Deprivation 2019,Rank of average score,Rank,53
+E09000019,Islington,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0488
+E09000020,Kensington and Chelsea,Index of Multiple Deprivation 2019,Rank of average score,Rank,121
+E09000020,Kensington and Chelsea,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0874
+E09000021,Kingston upon Thames,Index of Multiple Deprivation 2019,Rank of average score,Rank,273
+E09000021,Kingston upon Thames,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E09000022,Lambeth,Index of Multiple Deprivation 2019,Rank of average score,Rank,81
+E09000022,Lambeth,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E09000023,Lewisham,Index of Multiple Deprivation 2019,Rank of average score,Rank,63
+E09000023,Lewisham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0296
+E09000024,Merton,Index of Multiple Deprivation 2019,Rank of average score,Rank,213
+E09000024,Merton,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E09000025,Newham,Index of Multiple Deprivation 2019,Rank of average score,Rank,43
+E09000025,Newham,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0244
+E09000026,Redbridge,Index of Multiple Deprivation 2019,Rank of average score,Rank,173
+E09000026,Redbridge,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E09000027,Richmond upon Thames,Index of Multiple Deprivation 2019,Rank of average score,Rank,295
+E09000027,Richmond upon Thames,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E09000028,Southwark,Index of Multiple Deprivation 2019,Rank of average score,Rank,72
+E09000028,Southwark,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0301
+E09000029,Sutton,Index of Multiple Deprivation 2019,Rank of average score,Rank,226
+E09000029,Sutton,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0083
+E09000030,Tower Hamlets,Index of Multiple Deprivation 2019,Rank of average score,Rank,50
+E09000030,Tower Hamlets,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0139
+E09000031,Waltham Forest,Index of Multiple Deprivation 2019,Rank of average score,Rank,82
+E09000031,Waltham Forest,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0208
+E09000032,Wandsworth,Index of Multiple Deprivation 2019,Rank of average score,Rank,183
+E09000032,Wandsworth,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0
+E09000033,Westminster,Index of Multiple Deprivation 2019,Rank of average score,Rank,137
+E09000033,Westminster,Index of Multiple Deprivation 2019,Proportion of LSOAs in most deprived 10% nationally,Percentage,0.0234

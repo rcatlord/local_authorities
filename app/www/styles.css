@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro&display=swap');
+
+p {
+  color: #222;
+  font-family: font-family: 'Source Sans Pro', sans-serif;
+  font-size: 21px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+.lad_name {
+  color:#FFFFFF; 
+  background-color:rgb(32, 96, 149);
+  font-weight: bold;
+  padding: 1px 4px 1px 4px;
+}
+
+.help-block {
+  font-size: 18px;
+  word-wrap: break-word;
+}
+
+.control-label {
+  font-size: 18px;
+}
+
+.selectize-input { 
+  font-size: 16px; 
+  line-height: 1.5;
+}
+
+.selectize-dropdown { 
+  font-size: 16px; 
+  line-height: 1.5;
+}
+
+.nav {
+  position: fixed;
+  width: inherit;
+}
